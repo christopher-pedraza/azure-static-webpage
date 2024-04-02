@@ -1,0 +1,54 @@
+.mainImage {
+	max-width: 80%;
+	height: auto;
+	object-fit: cover;
+}
+
+/* .centered-content {
+	display: flex;
+	justify-content: center;
+} */
+
+h1,
+h2,
+h3 {
+	text-align: center;
+}
+
+hr.solid {
+	border-top: 3px solid #bbb;
+	border-radius: 2px;
+}
+
+body {
+	padding: 2rem;
+}
+
+.table-col {
+	width: 25%;
+}
+
+td {
+	text-align: center;
+}
+
+.table {
+	width: 100%;
+}
+
+.imagenes-ambiente {
+	width: 100%;
+	height: 20rem;
+	object-fit: cover;
+}
+
+.map {
+	width: 80%;
+	height: 20rem;
+	border: 0;
+}
+
+.table-image {
+	width: 100%;
+	height: 100%;
+}
